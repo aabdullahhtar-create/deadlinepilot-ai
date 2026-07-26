@@ -269,7 +269,7 @@ deadlinepilot-ai/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/deadlinepilot-ai.git
+git clone https://github.com/aabdullahhtar-create/deadlinepilot-ai.git
 cd deadlinepilot-ai
 npm install
 ```
@@ -392,4 +392,3 @@ This project is released under the [MIT License](LICENSE).
 =======
 # deadlinepilot-ai
  AI-powered project planning and submission-readiness assistant
->>>>>>> 9d50549d5eea14369b54c3aa4532929a661b3274
