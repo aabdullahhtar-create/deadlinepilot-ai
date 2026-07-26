@@ -9,8 +9,8 @@ DeadlinePilot AI is a project-planning and submission-readiness assistant for st
 
 > **Replace the two links below after GitHub and Vercel deployment.**
 
-- **Live application:** [https://YOUR-VERCEL-URL.vercel.app](https://YOUR-VERCEL-URL.vercel.app)
-- **Public repository:** [https://github.com/YOUR-USERNAME/deadlinepilot-ai](https://github.com/YOUR-USERNAME/deadlinepilot-ai)
+- **Live application:** https://ai-project-act-ai.netlify.app/
+- **Public repository:** https://github.com/aabdullahhtar-create/deadlinepilot-ai
 
 ## The Real Problem
 
