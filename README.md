@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DeadlinePilot AI
 
 > **From a confusing project brief to a focused, submission-ready build plan.**
