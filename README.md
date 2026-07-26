@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeadlinePilot AI
 
 > **From a confusing project brief to a focused, submission-ready build plan.**
@@ -389,3 +390,7 @@ The interface, data model, prompt strategy, structured-output schemas, fallback 
 ## License
 
 This project is released under the [MIT License](LICENSE).
+=======
+# deadlinepilot-ai
+ AI-powered project planning and submission-readiness assistant
+>>>>>>> 9d50549d5eea14369b54c3aa4532929a661b3274
